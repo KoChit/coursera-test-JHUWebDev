@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## coursera-test-JHUWebDev
 
 You can use the [editor on GitHub](https://github.com/TBBC9/coursera-test-JHUWebDev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
